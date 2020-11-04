@@ -5333,3 +5333,1645 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-13.00.53:556][372]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019CFB63E400), frame # 871372
 [2020.11.04-13.00.53:560][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
 [2020.11.04-13.00.53:587][373]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2020.11.04-13.15.09:645][820]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.15.09:712][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.11.04-13.15.10:142][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.15.10:222][844]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatCFDE299C48A231CD59E88CADA7F50924.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.15.10:248][844]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.15.10:248][844]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.15.11:844][992]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.15.11:860][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.15.11:860][992]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:15:11)
+[2020.11.04-13.15.11:860][992]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.15.11:862][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002215s)
+[2020.11.04-13.15.11:863][992]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.15.11:863][992]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D22566E00), frame # 875992
+[2020.11.04-13.15.11:863][992]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D4A33B740), frame # 875992
+[2020.11.04-13.15.11:863][992]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2020.11.04-13.15.11:864][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003691s)
+[2020.11.04-13.15.11:900][992]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.15.11:901][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.15.11:901][992]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.15.11:901][992]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.15.11:923][992]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.15.11:923][992]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.15.12:001][992]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.15.12:002][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.15.12:002][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.15.12:002][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.15.12:003][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.15.12:020][992]LogInit: FAudioDevice initialized.
+[2020.11.04-13.15.12:033][992]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.15.12:034][992]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.15.12
+[2020.11.04-13.15.12:034][992]LogWorld: Bringing up level for play took: 0.000584
+[2020.11.04-13.15.12:034][992]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2020.11.04-13.15.12:038][992]PIE: Server logged in
+[2020.11.04-13.15.12:039][992]PIE: Play in editor total start time 0.187 seconds.
+[2020.11.04-13.15.40:974][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.15.40:974][383]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.15.40:974][383]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.15.40:974][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.15.40:982][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.15.40:986][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.15.41:044][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.15.41:045][383]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D4A33B740), frame # 879383
+[2020.11.04-13.15.41:045][383]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D22566E00), frame # 879383
+[2020.11.04-13.15.41:048][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.11.04-13.15.41:073][384]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2020.11.04-13.15.59:141][915]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.15.59:197][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.11.04-13.15.59:828][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.15.59:896][957]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat15D2C0334347A81ED7779A8B159152F5.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.15.59:919][957]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.15.59:919][957]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.16.01:828][136]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.16.01:842][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.16.01:842][136]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:16:01)
+[2020.11.04-13.16.01:842][136]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.16.01:845][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002290s)
+[2020.11.04-13.16.01:846][136]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.16.01:846][136]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D36259400), frame # 881136
+[2020.11.04-13.16.01:846][136]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D31B11F80), frame # 881136
+[2020.11.04-13.16.01:846][136]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2020.11.04-13.16.01:846][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004105s)
+[2020.11.04-13.16.01:883][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.11.04-13.16.01:884][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.16.01:884][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.16.01:884][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.16.01:884][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.16.01:884][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.16.01:884][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.16.01:884][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.16.01:884][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.16.01:885][136]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.16.01:885][136]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.16.01:904][136]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.16.01:904][136]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.16.01:976][136]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.16.01:976][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.16.01:976][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.16.01:976][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.16.01:977][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.16.01:995][136]LogInit: FAudioDevice initialized.
+[2020.11.04-13.16.02:004][136]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.16.02:005][136]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.16.02
+[2020.11.04-13.16.02:005][136]LogWorld: Bringing up level for play took: 0.000503
+[2020.11.04-13.16.02:005][136]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2020.11.04-13.16.02:009][136]PIE: Server logged in
+[2020.11.04-13.16.02:010][136]PIE: Play in editor total start time 0.174 seconds.
+[2020.11.04-13.16.38:993][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.16.38:994][460]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.16.38:994][460]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.16.38:994][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.16.39:006][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.16.39:010][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.16.39:073][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.16.39:073][460]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D31B11F80), frame # 885460
+[2020.11.04-13.16.39:073][460]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D36259400), frame # 885460
+[2020.11.04-13.16.39:077][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.11.04-13.16.39:108][461]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2020.11.04-13.16.53:780][652]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.16.53:834][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.11.04-13.16.54:295][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.16.54:362][679]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat3B68D7894A5EC001EE71FBB34D4EDCD4.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.16.54:391][679]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.16.54:391][679]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.16.56:157][834]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.16.56:170][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.16.56:170][834]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:16:56)
+[2020.11.04-13.16.56:170][834]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.16.56:173][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002532s)
+[2020.11.04-13.16.56:174][834]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.16.56:174][834]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D35FB7C00), frame # 886834
+[2020.11.04-13.16.56:174][834]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D4E0A4A40), frame # 886834
+[2020.11.04-13.16.56:174][834]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2020.11.04-13.16.56:174][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003989s)
+[2020.11.04-13.16.56:209][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.11.04-13.16.56:210][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.16.56:210][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.16.56:210][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.16.56:210][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.16.56:210][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.16.56:210][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.16.56:210][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.16.56:210][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.16.56:211][834]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.16.56:211][834]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.16.56:233][834]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.16.56:233][834]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.16.56:309][834]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.16.56:310][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.16.56:310][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.16.56:310][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.16.56:310][834]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.16.56:329][834]LogInit: FAudioDevice initialized.
+[2020.11.04-13.16.56:341][834]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.16.56:342][834]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.16.56
+[2020.11.04-13.16.56:343][834]LogWorld: Bringing up level for play took: 0.000633
+[2020.11.04-13.16.56:343][834]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2020.11.04-13.16.56:347][834]PIE: Server logged in
+[2020.11.04-13.16.56:348][834]PIE: Play in editor total start time 0.186 seconds.
+[2020.11.04-13.18.00:633][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.18.00:633][354]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.18.00:633][354]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.18.00:633][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.18.00:642][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.18.00:648][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.18.00:707][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.18.00:707][354]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D4E0A4A40), frame # 894354
+[2020.11.04-13.18.00:707][354]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D35FB7C00), frame # 894354
+[2020.11.04-13.18.00:710][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.11.04-13.18.00:740][355]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.11.04-13.18.15:130][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.18.15:197][509]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat2EBAF5E440A49420B90489A05854F87D.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.18.15:221][509]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.18.15:221][509]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.18.16:112][569]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.18.16:173][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.11.04-13.18.17:313][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.18.17:382][652]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatC48B54904B2FBB36995D69A0449E9793.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.18.17:406][652]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.18.17:406][652]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.18.18:798][782]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.18.18:812][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.18.18:812][782]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:18:18)
+[2020.11.04-13.18.18:812][782]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.18.18:814][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002318s)
+[2020.11.04-13.18.18:815][782]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.18.18:815][782]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D4DE54600), frame # 895782
+[2020.11.04-13.18.18:815][782]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D3239BEC0), frame # 895782
+[2020.11.04-13.18.18:816][782]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2020.11.04-13.18.18:816][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003729s)
+[2020.11.04-13.18.18:854][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.18.18:855][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.18.18:855][782]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.18.18:855][782]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.18.18:874][782]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.18.18:874][782]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.18.18:947][782]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.18.18:948][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.18.18:948][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.18.18:948][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.18.18:948][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.18.18:966][782]LogInit: FAudioDevice initialized.
+[2020.11.04-13.18.18:976][782]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.18.18:977][782]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.18.18
+[2020.11.04-13.18.18:978][782]LogWorld: Bringing up level for play took: 0.000585
+[2020.11.04-13.18.18:978][782]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2020.11.04-13.18.18:981][782]PIE: Server logged in
+[2020.11.04-13.18.18:982][782]PIE: Play in editor total start time 0.178 seconds.
+[2020.11.04-13.18.34:083][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.18.34:084][535]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.18.34:084][535]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.18.34:084][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.18.34:096][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.18.34:101][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.18.34:164][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.18.34:165][535]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D3239BEC0), frame # 897535
+[2020.11.04-13.18.34:165][535]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D4DE54600), frame # 897535
+[2020.11.04-13.18.34:168][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.11.04-13.18.34:194][536]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2020.11.04-13.18.50:326][132]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Owner/Documents/GitHub/W3T9GroupProject/Cat 1st level CHONK.png)
+[2020.11.04-13.18.50:377][132]LogTexture: Display: Building textures: Cat_1st_level_CHONK (AutoDXT, 64X64)
+[2020.11.04-13.18.50:402][132]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Owner/Documents/GitHub/W3T9GroupProject/cat 2nd level CHONK.png)
+[2020.11.04-13.18.50:418][132]LogTexture: Display: Building textures: cat_2nd_level_CHONK (AutoDXT, 64X64)
+[2020.11.04-13.18.50:443][132]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Owner/Documents/GitHub/W3T9GroupProject/cat 3rd level CHONK.png)
+[2020.11.04-13.18.50:459][132]LogTexture: Display: Building textures: cat_3rd_level_CHONK (AutoDXT, 64X64)
+[2020.11.04-13.18.54:510][491]LogTexture: Display: Building textures: Cat_1st_level_CHONK (BGRA8, 64X64)
+[2020.11.04-13.18.54:512][491]LogTexture: Display: Building textures: cat_2nd_level_CHONK (BGRA8, 64X64)
+[2020.11.04-13.18.54:514][491]LogTexture: Display: Building textures: cat_3rd_level_CHONK (BGRA8, 64X64)
+[2020.11.04-13.19.02:426][204]Cmd: DELETE
+[2020.11.04-13.19.02:426][204]Cmd: ACTOR DELETE
+[2020.11.04-13.19.02:430][204]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.11.04-13.19.02:465][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.11.04-13.19.02:468][204]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.11.04-13.19.04:179][400]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.19.04:232][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.19.04:233][400]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:19:04)
+[2020.11.04-13.19.04:233][400]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.19.04:243][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009891s)
+[2020.11.04-13.19.04:246][400]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.19.04:246][400]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D3026D400), frame # 899400
+[2020.11.04-13.19.04:247][400]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D4E0A4180), frame # 899400
+[2020.11.04-13.19.04:250][400]LogPlayLevel: PIE: World Init took: (0.006153s)
+[2020.11.04-13.19.04:250][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.016460s)
+[2020.11.04-13.19.04:296][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.11.04-13.19.04:298][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.19.04:298][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.19.04:298][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.19.04:298][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.19.04:298][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.19.04:298][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.19.04:298][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.19.04:298][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.19.04:299][400]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.19.04:299][400]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.19.04:318][400]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.19.04:319][400]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.19.04:457][400]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.19.04:457][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.19.04:457][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.19.04:457][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.19.04:458][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.19.04:480][400]LogInit: FAudioDevice initialized.
+[2020.11.04-13.19.04:490][400]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.19.04:492][400]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.19.04
+[2020.11.04-13.19.04:492][400]LogWorld: Bringing up level for play took: 0.000618
+[2020.11.04-13.19.04:492][400]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2020.11.04-13.19.04:496][400]PIE: Server logged in
+[2020.11.04-13.19.04:498][400]PIE: Play in editor total start time 0.282 seconds.
+[2020.11.04-13.19.05:324][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.19.05:324][472]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.19.05:324][472]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.19.05:324][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.19.05:331][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.19.05:335][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.19.05:401][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.19.05:402][472]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D4E0A4180), frame # 899472
+[2020.11.04-13.19.05:402][472]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D3026D400), frame # 899472
+[2020.11.04-13.19.05:406][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.11.04-13.19.05:426][473]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2020.11.04-13.19.06:747][589]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/Cat_1st_level_CHONK_Sprite.Cat_1st_level_CHONK_Sprite
+[2020.11.04-13.19.13:123][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Cat_1st_level_CHONK_Sprite" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/Cat_1st_level_CHONK_Sprite.uasset" SILENT=true
+[2020.11.04-13.19.13:129][145]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat_1st_level_CHONK_Sprite06B341404D2229B6BF104B97D1D71F32.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/Cat_1st_level_CHONK_Sprite.uasset'
+[2020.11.04-13.19.13:156][145]AssetCheck: New page: Asset Save: Cat_1st_level_CHONK_Sprite
+[2020.11.04-13.19.13:156][145]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Cat_1st_level_CHONK_Sprite.Cat_1st_level_CHONK_Sprite
+[2020.11.04-13.19.41:202][  6]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.11.04-13.19.41:815][ 63]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Cat_1st_level_CHONK_Sprite)
+[2020.11.04-13.19.52:819][283]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Cat_1st_level_CHONK_Sprite)
+[2020.11.04-13.19.53:568][368]Cmd: DELETE
+[2020.11.04-13.19.53:568][368]Cmd: ACTOR DELETE
+[2020.11.04-13.19.53:570][368]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.11.04-13.19.53:608][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.11.04-13.19.53:611][368]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.11.04-13.20.54:836][712]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.20.54:890][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.11.04-13.20.55:501][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.20.55:569][745]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatD259E2FA478112B18A2AE7A34CBFE719.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.20.55:597][745]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.20.55:597][745]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.23.08:299][529]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.23.08:357][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.11.04-13.23.09:371][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.23.09:439][595]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat693DEE72456F43F399CDC5B9AD315DEF.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.23.09:464][595]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.23.09:464][595]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.23.12:633][855]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.23.12:646][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.23.12:647][855]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:23:12)
+[2020.11.04-13.23.12:647][855]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.23.12:649][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2020.11.04-13.23.12:650][855]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.23.12:650][855]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D5A7B1C00), frame # 916855
+[2020.11.04-13.23.12:650][855]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D512579C0), frame # 916855
+[2020.11.04-13.23.12:651][855]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2020.11.04-13.23.12:651][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003950s)
+[2020.11.04-13.23.12:685][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.11.04-13.23.12:687][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.23.12:687][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.23.12:687][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.23.12:687][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.23.12:687][855]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.23.12:687][855]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.23.12:687][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.23.12:688][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.23.12:688][855]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.23.12:688][855]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.23.12:707][855]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.23.12:707][855]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.23.12:783][855]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.23.12:784][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.23.12:784][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.23.12:784][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.23.12:784][855]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.23.12:806][855]LogInit: FAudioDevice initialized.
+[2020.11.04-13.23.12:815][855]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.23.12:816][855]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.23.12
+[2020.11.04-13.23.12:816][855]LogWorld: Bringing up level for play took: 0.000607
+[2020.11.04-13.23.12:816][855]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.11.04-13.23.12:821][855]PIE: Server logged in
+[2020.11.04-13.23.12:821][855]PIE: Play in editor total start time 0.182 seconds.
+[2020.11.04-13.23.16:303][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.23.16:303][251]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.23.16:303][251]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.23.16:304][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.23.16:312][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.23.16:317][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.23.16:375][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.23.16:375][251]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D512579C0), frame # 917251
+[2020.11.04-13.23.16:376][251]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D5A7B1C00), frame # 917251
+[2020.11.04-13.23.16:380][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.11.04-13.23.16:400][252]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.11.04-13.24.28:330][545]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.24.28:384][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.11.04-13.24.28:872][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.24.28:943][578]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat86B0BFAB440EDCFC3A9FE3ADF9BFD257.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.24.28:969][578]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.24.28:969][578]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.24.30:646][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.11.04-13.24.30:687][707]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Clicker78EE130C4ACE38CCF484569D10D7FDD9.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/2DSideScrollerBP/Maps/Clicker.umap'
+[2020.11.04-13.24.31:168][707]LogFileHelpers: Saving map 'Clicker' took 0.562
+[2020.11.04-13.24.31:222][707]AssetCheck: New page: Asset Save: Clicker
+[2020.11.04-13.24.31:222][707]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Clicker.Clicker
+[2020.11.04-13.24.32:679][863]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.24.32:692][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.24.32:692][863]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:24:32)
+[2020.11.04-13.24.32:692][863]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.24.32:695][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002463s)
+[2020.11.04-13.24.32:696][863]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.24.32:696][863]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D225AF600), frame # 923863
+[2020.11.04-13.24.32:696][863]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D51C9BEC0), frame # 923863
+[2020.11.04-13.24.32:696][863]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2020.11.04-13.24.32:696][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004331s)
+[2020.11.04-13.24.32:743][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.11.04-13.24.32:744][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.24.32:744][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.24.32:745][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.24.32:745][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.24.32:745][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.24.32:745][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.24.32:745][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.24.32:745][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.24.32:745][863]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.24.32:745][863]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.24.32:765][863]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.24.32:765][863]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.24.32:838][863]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.24.32:838][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.24.32:839][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.24.32:839][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.24.32:839][863]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.24.32:859][863]LogInit: FAudioDevice initialized.
+[2020.11.04-13.24.32:870][863]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.24.32:871][863]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.24.32
+[2020.11.04-13.24.32:871][863]LogWorld: Bringing up level for play took: 0.000499
+[2020.11.04-13.24.32:871][863]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2020.11.04-13.24.32:875][863]PIE: Server logged in
+[2020.11.04-13.24.32:876][863]PIE: Play in editor total start time 0.19 seconds.
+[2020.11.04-13.24.44:453][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.24.44:453][205]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.24.44:453][205]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.24.44:453][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.24.44:465][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.24.44:470][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.24.44:523][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.24.44:524][205]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D51C9BEC0), frame # 925205
+[2020.11.04-13.24.44:524][205]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D225AF600), frame # 925205
+[2020.11.04-13.24.44:527][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.11.04-13.24.44:550][206]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.11.04-13.25.17:870][284]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.25.17:928][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.11.04-13.25.18:391][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.25.18:465][311]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatD2474D2B4A075D2CCF0701A65EF9403B.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.25.18:494][311]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.25.18:495][311]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.25.20:845][524]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.25.20:859][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.25.20:859][524]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:25:20)
+[2020.11.04-13.25.20:859][524]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.25.20:862][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002154s)
+[2020.11.04-13.25.20:863][524]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.25.20:863][524]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D50E30600), frame # 928524
+[2020.11.04-13.25.20:863][524]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D4E0A7D80), frame # 928524
+[2020.11.04-13.25.20:863][524]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2020.11.04-13.25.20:863][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003851s)
+[2020.11.04-13.25.20:900][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.11.04-13.25.20:901][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.25.20:901][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.25.20:901][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.25.20:902][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.25.20:902][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.25.20:902][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.25.20:902][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.25.20:902][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.25.20:902][524]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.25.20:902][524]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.25.20:933][524]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.25.20:934][524]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.25.21:002][524]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.25.21:003][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.25.21:003][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.25.21:003][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.25.21:003][524]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.25.21:023][524]LogInit: FAudioDevice initialized.
+[2020.11.04-13.25.21:037][524]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.25.21:038][524]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.25.21
+[2020.11.04-13.25.21:038][524]LogWorld: Bringing up level for play took: 0.000528
+[2020.11.04-13.25.21:039][524]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2020.11.04-13.25.21:042][524]PIE: Server logged in
+[2020.11.04-13.25.21:043][524]PIE: Play in editor total start time 0.191 seconds.
+[2020.11.04-13.25.31:953][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.25.31:953][786]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.25.31:953][786]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.25.31:954][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.25.31:964][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.25.31:969][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.25.32:027][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.25.32:027][786]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D4E0A7D80), frame # 929786
+[2020.11.04-13.25.32:027][786]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D50E30600), frame # 929786
+[2020.11.04-13.25.32:031][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.11.04-13.25.32:055][787]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.11.04-13.26.12:325][ 27]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.26.12:377][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.11.04-13.26.13:142][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.26.13:215][ 79]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatB142F854471EE8F2F60874846AC19A93.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.26.13:244][ 79]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.26.13:245][ 79]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.26.44:928][464]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.26.44:981][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.11.04-13.26.45:459][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.26.45:532][491]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat7C11C37A48E17E89DEC7CD8AF2FFFB1B.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.26.45:559][491]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.26.45:559][491]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.26.47:805][679]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.26.47:818][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.26.47:818][679]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:26:47)
+[2020.11.04-13.26.47:818][679]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.26.47:820][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002125s)
+[2020.11.04-13.26.47:821][679]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.26.47:821][679]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D3082F200), frame # 935679
+[2020.11.04-13.26.47:822][679]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019CF915C180), frame # 935679
+[2020.11.04-13.26.47:822][679]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2020.11.04-13.26.47:822][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003475s)
+[2020.11.04-13.26.47:857][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.11.04-13.26.47:858][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.26.47:858][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.26.47:858][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.26.47:858][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.26.47:858][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.26.47:858][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.26.47:858][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.26.47:858][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.26.47:859][679]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.26.47:859][679]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.26.47:877][679]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.26.47:877][679]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.26.47:954][679]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.26.47:954][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.26.47:955][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.26.47:955][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.26.47:955][679]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.26.47:975][679]LogInit: FAudioDevice initialized.
+[2020.11.04-13.26.47:985][679]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.26.47:986][679]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.26.47
+[2020.11.04-13.26.47:986][679]LogWorld: Bringing up level for play took: 0.000732
+[2020.11.04-13.26.47:987][679]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2020.11.04-13.26.47:990][679]PIE: Server logged in
+[2020.11.04-13.26.47:991][679]PIE: Play in editor total start time 0.18 seconds.
+[2020.11.04-13.26.59:713][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.26.59:713][ 11]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.26.59:713][ 11]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.26.59:713][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.26.59:724][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.26.59:729][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.26.59:789][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.26.59:790][ 11]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019CF915C180), frame # 937011
+[2020.11.04-13.26.59:790][ 11]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D3082F200), frame # 937011
+[2020.11.04-13.26.59:793][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.11.04-13.26.59:818][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2020.11.04-13.27.04:914][383]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.27.04:968][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.11.04-13.27.05:410][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.27.05:484][406]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatF7CD112540125114592469B2C108F4B5.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.27.05:509][406]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.27.05:509][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.27.07:314][566]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.27.07:328][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.27.07:328][566]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:27:07)
+[2020.11.04-13.27.07:328][566]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.27.07:330][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002249s)
+[2020.11.04-13.27.07:331][566]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.27.07:332][566]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D51809400), frame # 937566
+[2020.11.04-13.27.07:332][566]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D1B52A200), frame # 937566
+[2020.11.04-13.27.07:332][566]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2020.11.04-13.27.07:332][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004049s)
+[2020.11.04-13.27.07:368][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.27.07:369][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.27.07:369][566]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.27.07:369][566]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.27.07:392][566]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.27.07:392][566]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.27.07:468][566]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.27.07:469][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.27.07:469][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.27.07:469][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.27.07:469][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.27.07:485][566]LogInit: FAudioDevice initialized.
+[2020.11.04-13.27.07:494][566]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.27.07:495][566]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.27.07
+[2020.11.04-13.27.07:495][566]LogWorld: Bringing up level for play took: 0.000564
+[2020.11.04-13.27.07:496][566]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2020.11.04-13.27.07:500][566]PIE: Server logged in
+[2020.11.04-13.27.07:501][566]PIE: Play in editor total start time 0.18 seconds.
+[2020.11.04-13.27.10:283][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.27.10:283][871]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.27.10:283][871]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.27.10:283][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.27.10:293][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.27.10:297][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.27.10:354][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.27.10:355][871]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D1B52A200), frame # 937871
+[2020.11.04-13.27.10:355][871]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D51809400), frame # 937871
+[2020.11.04-13.27.10:359][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.11.04-13.27.10:385][872]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.11.04-13.28.35:911][182]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.28.35:975][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.11.04-13.28.36:413][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.28.36:488][203]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat8CA98E7744CF7E7D873008994D5EF449.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.28.36:516][203]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.28.36:516][203]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.28.38:525][375]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.28.38:538][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.28.38:538][375]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:28:38)
+[2020.11.04-13.28.38:538][375]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.28.38:541][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002255s)
+[2020.11.04-13.28.38:542][375]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.28.38:542][375]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019C9D801200), frame # 943375
+[2020.11.04-13.28.38:542][375]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D1B52AFC0), frame # 943375
+[2020.11.04-13.28.38:542][375]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2020.11.04-13.28.38:542][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003739s)
+[2020.11.04-13.28.38:577][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.11.04-13.28.38:578][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.28.38:578][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.28.38:578][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.28.38:578][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.28.38:578][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.28.38:578][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.28.38:578][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.28.38:578][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.28.38:579][375]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.28.38:579][375]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.28.38:599][375]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.28.38:599][375]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.28.38:670][375]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.28.38:670][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.28.38:670][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.28.38:670][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.28.38:671][375]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.28.38:687][375]LogInit: FAudioDevice initialized.
+[2020.11.04-13.28.38:696][375]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.28.38:698][375]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.28.38
+[2020.11.04-13.28.38:698][375]LogWorld: Bringing up level for play took: 0.000643
+[2020.11.04-13.28.38:698][375]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2020.11.04-13.28.38:702][375]PIE: Server logged in
+[2020.11.04-13.28.38:703][375]PIE: Play in editor total start time 0.173 seconds.
+[2020.11.04-13.28.48:814][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.28.48:814][550]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.28.48:814][550]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.28.48:814][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.28.48:821][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.28.48:826][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.28.48:883][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.28.48:884][550]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D1B52AFC0), frame # 944550
+[2020.11.04-13.28.48:884][550]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019C9D801200), frame # 944550
+[2020.11.04-13.28.48:888][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.11.04-13.28.48:909][551]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2020.11.04-13.29.40:996][584]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.29.41:048][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.11.04-13.29.41:580][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.29.41:653][617]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat25853C6544E7465825819DBEBF929D61.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.29.41:680][617]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.29.41:680][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.29.43:276][771]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.29.43:289][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.29.43:289][771]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:29:43)
+[2020.11.04-13.29.43:289][771]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.29.43:292][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002289s)
+[2020.11.04-13.29.43:292][771]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.29.43:293][771]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D3A474600), frame # 948771
+[2020.11.04-13.29.43:293][771]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D0651F740), frame # 948771
+[2020.11.04-13.29.43:293][771]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2020.11.04-13.29.43:293][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003695s)
+[2020.11.04-13.29.43:327][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.11.04-13.29.43:328][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.29.43:328][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.29.43:328][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.29.43:328][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.29.43:328][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.29.43:328][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.29.43:328][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.29.43:328][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.29.43:329][771]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.29.43:329][771]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.29.43:347][771]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.29.43:347][771]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.29.43:423][771]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.29.43:423][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.29.43:424][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.29.43:424][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.29.43:424][771]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.29.43:444][771]LogInit: FAudioDevice initialized.
+[2020.11.04-13.29.43:453][771]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.29.43:454][771]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.29.43
+[2020.11.04-13.29.43:454][771]LogWorld: Bringing up level for play took: 0.000545
+[2020.11.04-13.29.43:455][771]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2020.11.04-13.29.43:459][771]PIE: Server logged in
+[2020.11.04-13.29.43:460][771]PIE: Play in editor total start time 0.178 seconds.
+[2020.11.04-13.29.54:583][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.29.54:584][ 69]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.29.54:584][ 69]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.29.54:584][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.29.54:593][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.29.54:598][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.29.54:656][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.29.54:657][ 69]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D0651F740), frame # 950069
+[2020.11.04-13.29.54:657][ 69]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D3A474600), frame # 950069
+[2020.11.04-13.29.54:661][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.11.04-13.29.54:684][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2020.11.04-13.30.09:200][294]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.30.09:251][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.11.04-13.30.09:648][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.30.09:719][315]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat3A97E23A4C26ACA9212FF196F4703A3B.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.30.09:751][315]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.30.09:751][315]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.30.11:871][509]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.30.11:884][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.30.11:884][509]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:30:11)
+[2020.11.04-13.30.11:884][509]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.30.11:886][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002396s)
+[2020.11.04-13.30.11:887][509]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.30.11:887][509]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019C9D803600), frame # 951509
+[2020.11.04-13.30.11:888][509]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D3EF74F40), frame # 951509
+[2020.11.04-13.30.11:888][509]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2020.11.04-13.30.11:888][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004230s)
+[2020.11.04-13.30.11:925][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.11.04-13.30.11:926][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.30.11:926][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.30.11:926][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.30.11:926][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.30.11:926][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.30.11:926][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.30.11:926][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.30.11:926][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.30.11:927][509]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.30.11:927][509]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.30.11:945][509]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.30.11:945][509]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.30.12:030][509]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.30.12:030][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.30.12:030][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.30.12:030][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.30.12:030][509]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.30.12:048][509]LogInit: FAudioDevice initialized.
+[2020.11.04-13.30.12:057][509]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.30.12:058][509]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.30.12
+[2020.11.04-13.30.12:058][509]LogWorld: Bringing up level for play took: 0.000564
+[2020.11.04-13.30.12:058][509]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2020.11.04-13.30.12:062][509]PIE: Server logged in
+[2020.11.04-13.30.12:063][509]PIE: Play in editor total start time 0.185 seconds.
+[2020.11.04-13.30.21:633][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.30.21:634][633]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.30.21:634][633]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.30.21:634][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.30.21:641][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.30.21:646][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.30.21:702][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.30.21:702][633]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D3EF74F40), frame # 952633
+[2020.11.04-13.30.21:702][633]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019C9D803600), frame # 952633
+[2020.11.04-13.30.21:706][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.11.04-13.30.21:728][634]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2020.11.04-13.30.29:265][233]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.30.29:316][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.11.04-13.30.29:731][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.30.29:804][257]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatA162756245FD546376B3F2A9AED10070.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.30.29:835][257]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.30.29:835][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.30.31:544][413]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.30.31:557][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.30.31:557][413]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:30:31)
+[2020.11.04-13.30.31:557][413]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.30.31:559][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002229s)
+[2020.11.04-13.30.31:560][413]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.30.31:560][413]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D48BC9400), frame # 953413
+[2020.11.04-13.30.31:560][413]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D0E684F40), frame # 953413
+[2020.11.04-13.30.31:561][413]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2020.11.04-13.30.31:561][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003668s)
+[2020.11.04-13.30.31:595][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.11.04-13.30.31:596][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.30.31:596][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.30.31:596][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.30.31:596][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.30.31:596][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.30.31:596][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.30.31:596][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.30.31:596][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.30.31:597][413]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.30.31:597][413]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.30.31:615][413]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.30.31:615][413]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.30.31:690][413]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.30.31:691][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.30.31:691][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.30.31:691][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.30.31:691][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.30.31:709][413]LogInit: FAudioDevice initialized.
+[2020.11.04-13.30.31:719][413]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.30.31:721][413]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.30.31
+[2020.11.04-13.30.31:721][413]LogWorld: Bringing up level for play took: 0.000684
+[2020.11.04-13.30.31:721][413]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2020.11.04-13.30.31:726][413]PIE: Server logged in
+[2020.11.04-13.30.31:727][413]PIE: Play in editor total start time 0.178 seconds.
+[2020.11.04-13.31.14:064][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.31.14:064][351]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.31.14:064][351]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.31.14:064][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.31.14:076][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.31.14:081][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.31.14:137][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.31.14:138][351]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D0E684F40), frame # 958351
+[2020.11.04-13.31.14:138][351]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D48BC9400), frame # 958351
+[2020.11.04-13.31.14:141][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.11.04-13.31.14:166][352]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2020.11.04-13.32.18:433][697]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.32.18:486][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.11.04-13.32.18:934][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.32.19:008][723]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat24E3132A4035C5605170098EB21C926E.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.32.19:037][723]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.32.19:037][723]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.32.31:385][743]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.32.31:437][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.11.04-13.32.31:884][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.32.31:958][771]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatDC4D2BFC4A9805D77580D78E27B37581.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.32.31:984][771]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.32.31:985][771]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.32.33:513][908]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.32.33:525][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.32.33:525][908]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:32:33)
+[2020.11.04-13.32.33:525][908]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.32.33:528][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002642s)
+[2020.11.04-13.32.33:529][908]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.32.33:529][908]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D60A5B400), frame # 964908
+[2020.11.04-13.32.33:529][908]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D3EF75440), frame # 964908
+[2020.11.04-13.32.33:529][908]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2020.11.04-13.32.33:530][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004074s)
+[2020.11.04-13.32.33:564][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.11.04-13.32.33:565][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.32.33:565][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.32.33:565][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.32.33:566][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.32.33:566][908]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.32.33:566][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.32.33:566][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.32.33:566][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.32.33:566][908]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.32.33:566][908]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.32.33:585][908]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.32.33:585][908]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.32.33:658][908]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.32.33:658][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.32.33:658][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.32.33:658][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.32.33:658][908]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.32.33:675][908]LogInit: FAudioDevice initialized.
+[2020.11.04-13.32.33:690][908]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.32.33:691][908]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.32.33
+[2020.11.04-13.32.33:691][908]LogWorld: Bringing up level for play took: 0.000569
+[2020.11.04-13.32.33:691][908]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2020.11.04-13.32.33:695][908]PIE: Server logged in
+[2020.11.04-13.32.33:696][908]PIE: Play in editor total start time 0.178 seconds.
+[2020.11.04-13.33.11:784][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.33.11:784][190]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.33.11:784][190]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.33.11:784][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.33.11:795][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.33.11:799][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.33.11:855][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.33.11:856][190]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D3EF75440), frame # 969190
+[2020.11.04-13.33.11:856][190]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D60A5B400), frame # 969190
+[2020.11.04-13.33.11:860][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.11.04-13.33.11:882][191]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2020.11.04-13.34.00:286][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.34.00:363][919]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatAFB1C62A41015F7969619FB07FACCE42.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.34.00:388][919]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.34.00:388][919]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.37.00:358][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.11.04-13.37.00:362][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Clicker' took 0.046
+[2020.11.04-13.37.00:363][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Cat_1st_level_CHONK] ([1] browsable assets)...
+[2020.11.04-13.37.00:365][315]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Cat_1st_level_CHONK.Cat_1st_level_CHONK]
+[2020.11.04-13.37.00:365][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Cat_1st_level_CHONK]
+[2020.11.04-13.37.00:372][315]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat_1st_level_CHONK_Auto039FD6AEF4475185DAED73E8337AE4DC7.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Autosaves/Game/Assets/Cat_1st_level_CHONK_Auto0.uasset'
+[2020.11.04-13.37.00:374][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/cat_2nd_level_CHONK] ([1] browsable assets)...
+[2020.11.04-13.37.00:376][315]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/cat_2nd_level_CHONK.cat_2nd_level_CHONK]
+[2020.11.04-13.37.00:376][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/cat_2nd_level_CHONK]
+[2020.11.04-13.37.00:381][315]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_2nd_level_CHONK_Auto0EFE2604D4B5598620E71519C6D41B1E3.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Autosaves/Game/Assets/cat_2nd_level_CHONK_Auto0.uasset'
+[2020.11.04-13.37.00:383][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/cat_3rd_level_CHONK] ([1] browsable assets)...
+[2020.11.04-13.37.00:385][315]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/cat_3rd_level_CHONK.cat_3rd_level_CHONK]
+[2020.11.04-13.37.00:385][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/cat_3rd_level_CHONK]
+[2020.11.04-13.37.00:390][315]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_3rd_level_CHONK_Auto063856BF3416016FF559461A0DB71FC81.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Autosaves/Game/Assets/cat_3rd_level_CHONK_Auto0.uasset'
+[2020.11.04-13.37.00:392][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/cat_2nd_level_CHONK_Sprite] ([1] browsable assets)...
+[2020.11.04-13.37.00:399][315]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/cat_2nd_level_CHONK_Sprite.cat_2nd_level_CHONK_Sprite]
+[2020.11.04-13.37.00:399][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/cat_2nd_level_CHONK_Sprite]
+[2020.11.04-13.37.00:406][315]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_2nd_level_CHONK_Sprite_Auto00A261E6F4A5A7C6A009D7099D8BA7278.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Autosaves/Game/Assets/cat_2nd_level_CHONK_Sprite_Auto0.uasset'
+[2020.11.04-13.37.00:408][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/cat_3rd_level_CHONK_Sprite] ([1] browsable assets)...
+[2020.11.04-13.37.00:414][315]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/cat_3rd_level_CHONK_Sprite.cat_3rd_level_CHONK_Sprite]
+[2020.11.04-13.37.00:415][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/cat_3rd_level_CHONK_Sprite]
+[2020.11.04-13.37.00:421][315]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_3rd_level_CHONK_Sprite_Auto0FFA8C01747C4614FBD8C8F8B28780646.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Autosaves/Game/Assets/cat_3rd_level_CHONK_Sprite_Auto0.uasset'
+[2020.11.04-13.37.00:424][315]LogFileHelpers: Auto-saving content packages took 0.061
+[2020.11.04-13.46.00:937][825]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.46.00:950][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.46.00:950][825]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:46:00)
+[2020.11.04-13.46.00:950][825]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.46.00:953][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002586s)
+[2020.11.04-13.46.00:954][825]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.46.00:954][825]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D35D17000), frame # 993825
+[2020.11.04-13.46.00:954][825]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019CBB8A1E40), frame # 993825
+[2020.11.04-13.46.00:954][825]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2020.11.04-13.46.00:954][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004183s)
+[2020.11.04-13.46.00:994][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.11.04-13.46.00:998][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.46.00:998][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.46.00:998][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.46.00:998][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.46.00:998][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.46.00:998][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.46.00:998][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.46.00:998][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.46.00:999][825]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.46.00:999][825]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.46.01:021][825]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.46.01:021][825]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.46.01:096][825]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.46.01:096][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.46.01:097][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.46.01:097][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.46.01:097][825]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.46.01:113][825]LogInit: FAudioDevice initialized.
+[2020.11.04-13.46.01:125][825]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.46.01:127][825]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.46.01
+[2020.11.04-13.46.01:127][825]LogWorld: Bringing up level for play took: 0.001145
+[2020.11.04-13.46.01:127][825]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2020.11.04-13.46.01:131][825]PIE: Server logged in
+[2020.11.04-13.46.01:132][825]PIE: Play in editor total start time 0.189 seconds.
+[2020.11.04-13.46.51:163][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.46.51:163][444]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.46.51:164][444]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.46.51:164][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.46.51:170][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.46.51:174][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.46.51:231][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.46.51:232][444]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019CBB8A1E40), frame # 999444
+[2020.11.04-13.46.51:232][444]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D35D17000), frame # 999444
+[2020.11.04-13.46.51:235][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.04-13.46.51:265][445]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2020.11.04-13.49.19:890][246]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.49.19:903][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.49.19:904][246]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:49:19)
+[2020.11.04-13.49.19:904][246]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.49.19:906][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2020.11.04-13.49.19:907][246]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.49.19:907][246]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D61FEE400), frame # 1012246
+[2020.11.04-13.49.19:908][246]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D3757D440), frame # 1012246
+[2020.11.04-13.49.19:908][246]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2020.11.04-13.49.19:908][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004082s)
+[2020.11.04-13.49.19:943][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.11.04-13.49.19:947][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.49.19:947][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.49.19:947][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.49.19:947][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.49.19:947][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.49.19:947][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.49.19:948][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.49.19:948][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.49.19:948][246]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.49.19:948][246]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.49.19:968][246]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.49.19:969][246]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.49.20:043][246]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.49.20:044][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.49.20:044][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.49.20:044][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.49.20:044][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.49.20:064][246]LogInit: FAudioDevice initialized.
+[2020.11.04-13.49.20:075][246]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.49.20:076][246]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.49.20
+[2020.11.04-13.49.20:077][246]LogWorld: Bringing up level for play took: 0.000855
+[2020.11.04-13.49.20:077][246]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2020.11.04-13.49.20:082][246]PIE: Server logged in
+[2020.11.04-13.49.20:083][246]PIE: Play in editor total start time 0.186 seconds.
+[2020.11.04-13.49.42:104][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.49.42:104][744]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.49.42:104][744]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.49.42:104][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.49.42:117][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.49.42:121][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.49.42:185][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.49.42:186][744]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D3757D440), frame # 1014744
+[2020.11.04-13.49.42:186][744]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D61FEE400), frame # 1014744
+[2020.11.04-13.49.42:190][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.11.04-13.49.42:220][745]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2020.11.04-13.50.19:092][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.50.19:167][925]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat3BC4708F44D42C76B3F692BE5B0399D6.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.50.19:192][925]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.50.19:193][925]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.50.21:044][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.50.21:064][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.50.21:064][ 81]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:50:21)
+[2020.11.04-13.50.21:065][ 81]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.50.21:068][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003122s)
+[2020.11.04-13.50.21:069][ 81]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.50.21:069][ 81]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D5226C200), frame # 1018081
+[2020.11.04-13.50.21:069][ 81]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D32957EC0), frame # 1018081
+[2020.11.04-13.50.21:069][ 81]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2020.11.04-13.50.21:070][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004927s)
+[2020.11.04-13.50.21:106][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.11.04-13.50.21:110][ 81]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.50.21:110][ 81]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.50.21:110][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.50.21:110][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.50.21:110][ 81]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.50.21:110][ 81]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.50.21:110][ 81]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.50.21:110][ 81]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.50.21:111][ 81]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.50.21:111][ 81]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.50.21:134][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.50.21:134][ 81]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.50.21:221][ 81]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.50.21:221][ 81]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.50.21:221][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.50.21:221][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.50.21:222][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.50.21:238][ 81]LogInit: FAudioDevice initialized.
+[2020.11.04-13.50.21:248][ 81]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.50.21:250][ 81]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.50.21
+[2020.11.04-13.50.21:250][ 81]LogWorld: Bringing up level for play took: 0.000670
+[2020.11.04-13.50.21:250][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2020.11.04-13.50.21:254][ 81]PIE: Server logged in
+[2020.11.04-13.50.21:255][ 81]PIE: Play in editor total start time 0.198 seconds.
+[2020.11.04-13.50.29:354][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.50.29:354][ 20]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.50.29:354][ 20]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.50.29:354][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.50.29:364][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.50.29:369][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.50.29:425][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.50.29:426][ 20]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D32957EC0), frame # 1019020
+[2020.11.04-13.50.29:426][ 20]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D5226C200), frame # 1019020
+[2020.11.04-13.50.29:428][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.11.04-13.50.29:449][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2020.11.04-13.50.30:044][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.50.30:059][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.50.30:059][ 88]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:50:30)
+[2020.11.04-13.50.30:059][ 88]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.50.30:061][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002174s)
+[2020.11.04-13.50.30:062][ 88]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.50.30:063][ 88]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D50EAAE00), frame # 1019088
+[2020.11.04-13.50.30:063][ 88]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D3EF74680), frame # 1019088
+[2020.11.04-13.50.30:063][ 88]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2020.11.04-13.50.30:063][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003553s)
+[2020.11.04-13.50.30:097][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.11.04-13.50.30:098][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.50.30:098][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.50.30:098][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.50.30:098][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.50.30:098][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.50.30:098][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.50.30:098][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.50.30:098][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.50.30:099][ 88]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.50.30:099][ 88]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.50.30:121][ 88]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.50.30:121][ 88]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.50.30:195][ 88]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.50.30:195][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.50.30:195][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.50.30:195][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.50.30:196][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.50.30:214][ 88]LogInit: FAudioDevice initialized.
+[2020.11.04-13.50.30:225][ 88]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.50.30:226][ 88]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.50.30
+[2020.11.04-13.50.30:226][ 88]LogWorld: Bringing up level for play took: 0.000515
+[2020.11.04-13.50.30:227][ 88]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2020.11.04-13.50.30:230][ 88]PIE: Server logged in
+[2020.11.04-13.50.30:231][ 88]PIE: Play in editor total start time 0.179 seconds.
+[2020.11.04-13.50.36:793][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.50.36:793][828]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.50.36:794][828]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.50.36:794][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.50.36:804][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.50.36:809][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.50.36:842][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.50.36:873][828]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D3EF74680), frame # 1019828
+[2020.11.04-13.50.36:873][828]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D50EAAE00), frame # 1019828
+[2020.11.04-13.50.36:877][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.11.04-13.50.36:907][829]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2020.11.04-13.51.32:853][997]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.51.32:909][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.11.04-13.51.33:312][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.51.33:390][ 13]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatF0B55FC84290F1ADEAA4DD924A237DDB.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.51.33:415][ 13]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.51.33:415][ 13]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.51.35:028][144]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.51.35:040][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.51.35:041][144]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:51:35)
+[2020.11.04-13.51.35:041][144]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.51.35:043][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002187s)
+[2020.11.04-13.51.35:044][144]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.51.35:044][144]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019CFB63D000), frame # 1024144
+[2020.11.04-13.51.35:044][144]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D0E4B8A40), frame # 1024144
+[2020.11.04-13.51.35:044][144]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2020.11.04-13.51.35:044][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003543s)
+[2020.11.04-13.51.35:080][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.11.04-13.51.35:081][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.51.35:081][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.51.35:081][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.51.35:081][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.51.35:081][144]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.51.35:081][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.51.35:082][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.51.35:082][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.51.35:082][144]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.51.35:082][144]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.51.35:102][144]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.51.35:102][144]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.51.35:175][144]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.51.35:175][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.51.35:176][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.51.35:176][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.51.35:176][144]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.51.35:196][144]LogInit: FAudioDevice initialized.
+[2020.11.04-13.51.35:209][144]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.51.35:210][144]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.51.35
+[2020.11.04-13.51.35:211][144]LogWorld: Bringing up level for play took: 0.000580
+[2020.11.04-13.51.35:211][144]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2020.11.04-13.51.35:214][144]PIE: Server logged in
+[2020.11.04-13.51.35:216][144]PIE: Play in editor total start time 0.183 seconds.
+[2020.11.04-13.51.52:533][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.51.52:533][136]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.51.52:533][136]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.51.52:533][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.51.52:541][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.51.52:547][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.51.52:602][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.51.52:603][136]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D0E4B8A40), frame # 1026136
+[2020.11.04-13.51.52:603][136]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019CFB63D000), frame # 1026136
+[2020.11.04-13.51.52:606][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.11.04-13.51.52:632][137]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2020.11.04-13.52.19:541][909]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.52.19:601][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.11.04-13.52.20:098][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.52.20:174][932]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat1845FFF94B5DB7F47D1511AB4C072653.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.52.20:204][932]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.52.20:204][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.52.21:702][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.52.21:715][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.52.21:715][ 68]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:52:21)
+[2020.11.04-13.52.21:715][ 68]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.52.21:718][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002807s)
+[2020.11.04-13.52.21:719][ 68]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.52.21:719][ 68]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D481F9200), frame # 1028068
+[2020.11.04-13.52.21:719][ 68]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D4D5A7EC0), frame # 1028068
+[2020.11.04-13.52.21:720][ 68]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2020.11.04-13.52.21:720][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004633s)
+[2020.11.04-13.52.21:755][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.11.04-13.52.21:757][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.52.21:757][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.52.21:757][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.52.21:757][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.52.21:757][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.52.21:757][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.52.21:757][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.52.21:757][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.52.21:757][ 68]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.52.21:758][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.52.21:778][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.52.21:778][ 68]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.52.21:855][ 68]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.52.21:856][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.52.21:856][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.52.21:856][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.52.21:857][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.52.21:876][ 68]LogInit: FAudioDevice initialized.
+[2020.11.04-13.52.21:884][ 68]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.52.21:885][ 68]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.52.21
+[2020.11.04-13.52.21:886][ 68]LogWorld: Bringing up level for play took: 0.000726
+[2020.11.04-13.52.21:886][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2020.11.04-13.52.21:890][ 68]PIE: Server logged in
+[2020.11.04-13.52.21:891][ 68]PIE: Play in editor total start time 0.182 seconds.
+[2020.11.04-13.53.50:304][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.53.50:304][309]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.53.50:304][309]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.53.50:305][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.53.50:311][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.53.50:315][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.53.50:346][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.53.50:370][309]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D4D5A7EC0), frame # 1038309
+[2020.11.04-13.53.50:370][309]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D481F9200), frame # 1038309
+[2020.11.04-13.53.50:374][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.11.04-13.53.50:396][310]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2020.11.04-13.55.02:730][310]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.55.02:785][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.11.04-13.55.03:200][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.55.03:277][327]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatF1774AB945E15F70769907BF9E5B511A.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.55.03:306][327]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.55.03:306][327]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.55.49:412][100]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Owner/Documents/GitHub/W3T9GroupProject/cat 4th level CHONK.png)
+[2020.11.04-13.55.49:429][100]LogTexture: Display: Building textures: cat_4th_level_CHONK (AutoDXT, 64X64)
+[2020.11.04-13.55.56:898][847]LogTexture: Display: Building textures: cat_4th_level_CHONK (BGRA8, 64X64)
+[2020.11.04-13.56.02:451][364]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/cat_4th_level_CHONK_Sprite.cat_4th_level_CHONK_Sprite
+[2020.11.04-13.56.03:992][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/cat_4th_level_CHONK_Sprite" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_4th_level_CHONK_Sprite.uasset" SILENT=true
+[2020.11.04-13.56.03:999][487]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_4th_level_CHONK_Sprite71CE538F4FA71444F47B7DB0F6CFD89A.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_4th_level_CHONK_Sprite.uasset'
+[2020.11.04-13.56.04:026][487]AssetCheck: New page: Asset Save: cat_4th_level_CHONK_Sprite
+[2020.11.04-13.56.04:026][487]LogContentValidation: Display: Validating PaperSprite /Game/Assets/cat_4th_level_CHONK_Sprite.cat_4th_level_CHONK_Sprite
+[2020.11.04-13.56.05:984][680]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-13.56.05:998][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-13.56.05:998][680]PIE: New page: PIE session: Clicker (4 Nov 2020, 13:56:05)
+[2020.11.04-13.56.05:998][680]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.56.06:001][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002294s)
+[2020.11.04-13.56.06:002][680]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-13.56.06:002][680]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D10B84800), frame # 1045680
+[2020.11.04-13.56.06:002][680]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019CDA5D0A40), frame # 1045680
+[2020.11.04-13.56.06:002][680]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2020.11.04-13.56.06:002][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003936s)
+[2020.11.04-13.56.06:038][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.11.04-13.56.06:040][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-13.56.06:041][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-13.56.06:041][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-13.56.06:041][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-13.56.06:041][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-13.56.06:041][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-13.56.06:041][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-13.56.06:041][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-13.56.06:041][680]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-13.56.06:041][680]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-13.56.06:067][680]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-13.56.06:067][680]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-13.56.06:148][680]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-13.56.06:149][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-13.56.06:149][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-13.56.06:149][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-13.56.06:149][680]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-13.56.06:168][680]LogInit: FAudioDevice initialized.
+[2020.11.04-13.56.06:179][680]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-13.56.06:180][680]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-13.56.06
+[2020.11.04-13.56.06:180][680]LogWorld: Bringing up level for play took: 0.000582
+[2020.11.04-13.56.06:180][680]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2020.11.04-13.56.06:184][680]PIE: Server logged in
+[2020.11.04-13.56.06:185][680]PIE: Play in editor total start time 0.194 seconds.
+[2020.11.04-13.56.30:053][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.56.30:053][434]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-13.56.30:053][434]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.56.30:053][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.56.30:062][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-13.56.30:068][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.56.30:150][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-13.56.30:151][434]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019CDA5D0A40), frame # 1048434
+[2020.11.04-13.56.30:151][434]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D10B84800), frame # 1048434
+[2020.11.04-13.56.30:156][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.11.04-13.56.30:191][435]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2020.11.04-13.57.11:425][566]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.57.11:425][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.57.12:182][637]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-13.57.12:182][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-13.57.36:390][252]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.57.36:448][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.11.04-13.57.36:988][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.57.37:071][277]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat958B9C614FDE082AD46A1E9CFF6B4861.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.57.37:098][277]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.57.37:098][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-13.59.37:182][460]BlueprintLog: New page: Compile Cat
+[2020.11.04-13.59.37:240][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.11.04-13.59.37:890][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-13.59.37:967][496]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatEC05BAF44E9EA6AB59B185BEB6098C81.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-13.59.37:995][496]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-13.59.37:995][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-14.00.11:672][ 53]BlueprintLog: New page: Compile Cat
+[2020.11.04-14.00.11:724][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.11.04-14.00.12:142][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-14.00.12:225][ 71]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat6B89C54948A73DFCA237AD9C394D653A.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-14.00.12:253][ 71]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-14.00.12:253][ 71]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-14.00.14:115][236]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-14.00.14:128][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-14.00.14:128][236]PIE: New page: PIE session: Clicker (4 Nov 2020, 14:00:14)
+[2020.11.04-14.00.14:129][236]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.00.14:131][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002401s)
+[2020.11.04-14.00.14:132][236]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-14.00.14:132][236]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D520FBA00), frame # 1063236
+[2020.11.04-14.00.14:132][236]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019CDF4296C0), frame # 1063236
+[2020.11.04-14.00.14:133][236]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2020.11.04-14.00.14:133][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003966s)
+[2020.11.04-14.00.14:167][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.11.04-14.00.14:168][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-14.00.14:169][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-14.00.14:169][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-14.00.14:169][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-14.00.14:169][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-14.00.14:169][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-14.00.14:169][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-14.00.14:169][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-14.00.14:169][236]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-14.00.14:169][236]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-14.00.14:190][236]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-14.00.14:190][236]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-14.00.14:263][236]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-14.00.14:263][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-14.00.14:263][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-14.00.14:263][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-14.00.14:264][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-14.00.14:282][236]LogInit: FAudioDevice initialized.
+[2020.11.04-14.00.14:291][236]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-14.00.14:292][236]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-14.00.14
+[2020.11.04-14.00.14:293][236]LogWorld: Bringing up level for play took: 0.000575
+[2020.11.04-14.00.14:293][236]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2020.11.04-14.00.14:297][236]PIE: Server logged in
+[2020.11.04-14.00.14:298][236]PIE: Play in editor total start time 0.177 seconds.
+[2020.11.04-14.00.17:403][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.00.17:403][600]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.00.17:404][600]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-14.00.17:404][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.00.17:415][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-14.00.17:420][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.00.17:476][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.00.17:477][600]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019CDF4296C0), frame # 1063600
+[2020.11.04-14.00.17:477][600]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D520FBA00), frame # 1063600
+[2020.11.04-14.00.17:480][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.11.04-14.00.17:502][601]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2020.11.04-14.00.24:460][ 99]BlueprintLog: New page: Compile Cat
+[2020.11.04-14.00.24:514][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.11.04-14.00.25:058][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-14.00.25:135][131]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat4C722DF2437CC18D4D8B77A7537DB822.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-14.00.25:167][131]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-14.00.25:167][131]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-14.00.26:864][293]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-14.00.26:876][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-14.00.26:876][293]PIE: New page: PIE session: Clicker (4 Nov 2020, 14:00:26)
+[2020.11.04-14.00.26:877][293]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.00.26:879][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002172s)
+[2020.11.04-14.00.26:880][293]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-14.00.26:880][293]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D50DBA200), frame # 1064293
+[2020.11.04-14.00.26:880][293]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019CB4CD9E40), frame # 1064293
+[2020.11.04-14.00.26:880][293]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2020.11.04-14.00.26:880][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003871s)
+[2020.11.04-14.00.26:914][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.11.04-14.00.26:916][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-14.00.26:916][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-14.00.26:916][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-14.00.26:916][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-14.00.26:916][293]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-14.00.26:916][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-14.00.26:916][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-14.00.26:916][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-14.00.26:916][293]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-14.00.26:917][293]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-14.00.26:934][293]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-14.00.26:934][293]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-14.00.27:004][293]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-14.00.27:005][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-14.00.27:005][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-14.00.27:005][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-14.00.27:005][293]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-14.00.27:025][293]LogInit: FAudioDevice initialized.
+[2020.11.04-14.00.27:037][293]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-14.00.27:038][293]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-14.00.27
+[2020.11.04-14.00.27:038][293]LogWorld: Bringing up level for play took: 0.000518
+[2020.11.04-14.00.27:038][293]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2020.11.04-14.00.27:042][293]PIE: Server logged in
+[2020.11.04-14.00.27:043][293]PIE: Play in editor total start time 0.174 seconds.
+[2020.11.04-14.00.47:934][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.00.47:934][711]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.00.47:934][711]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-14.00.47:934][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.00.47:944][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-14.00.47:949][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.00.48:001][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.00.48:002][711]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019CB4CD9E40), frame # 1066711
+[2020.11.04-14.00.48:002][711]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D50DBA200), frame # 1066711
+[2020.11.04-14.00.48:005][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.11.04-14.00.48:024][712]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2020.11.04-14.01.14:343][863]BlueprintLog: New page: Compile Cat
+[2020.11.04-14.01.14:397][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.11.04-14.01.14:809][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-14.01.14:892][886]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat1D66141B4CDFC69039B19E8CA9650675.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-14.01.14:921][886]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-14.01.14:921][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-14.01.16:861][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-14.01.16:874][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-14.01.16:875][ 73]PIE: New page: PIE session: Clicker (4 Nov 2020, 14:01:16)
+[2020.11.04-14.01.16:875][ 73]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.01.16:878][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002704s)
+[2020.11.04-14.01.16:879][ 73]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-14.01.16:879][ 73]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D648C6200), frame # 1069073
+[2020.11.04-14.01.16:879][ 73]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D4E0A5E40), frame # 1069073
+[2020.11.04-14.01.16:879][ 73]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2020.11.04-14.01.16:879][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.004254s)
+[2020.11.04-14.01.16:917][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-14.01.16:919][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-14.01.16:919][ 73]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-14.01.16:919][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-14.01.16:944][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-14.01.16:944][ 73]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-14.01.17:044][ 73]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-14.01.17:045][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-14.01.17:045][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-14.01.17:045][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-14.01.17:045][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-14.01.17:071][ 73]LogInit: FAudioDevice initialized.
+[2020.11.04-14.01.17:080][ 73]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-14.01.17:081][ 73]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-14.01.17
+[2020.11.04-14.01.17:082][ 73]LogWorld: Bringing up level for play took: 0.000703
+[2020.11.04-14.01.17:082][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2020.11.04-14.01.17:086][ 73]PIE: Server logged in
+[2020.11.04-14.01.17:087][ 73]PIE: Play in editor total start time 0.221 seconds.
+[2020.11.04-14.01.41:123][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.01.41:123][861]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.01.41:123][861]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-14.01.41:123][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.01.41:135][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-14.01.41:140][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.01.41:196][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.01.41:197][861]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D4E0A5E40), frame # 1071861
+[2020.11.04-14.01.41:197][861]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D648C6200), frame # 1071861
+[2020.11.04-14.01.41:200][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.11.04-14.01.41:226][862]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2020.11.04-14.02.14:743][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-14.02.14:821][641]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatDDE7757743C943E090AEB19AA6C0FA10.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-14.02.14:849][641]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-14.02.14:850][641]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-14.02.33:612][128]BlueprintLog: New page: Compile Cat
+[2020.11.04-14.02.33:667][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.11.04-14.02.34:195][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cat" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset" SILENT=true
+[2020.11.04-14.02.34:276][159]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/CatCCE12DFB40BBD4419D0951A5E13A1144.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Cat.uasset'
+[2020.11.04-14.02.34:304][159]AssetCheck: New page: Asset Save: Cat
+[2020.11.04-14.02.34:304][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cat.Cat
+[2020.11.04-14.02.38:874][534]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-14.02.38:887][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-14.02.38:887][534]PIE: New page: PIE session: Clicker (4 Nov 2020, 14:02:38)
+[2020.11.04-14.02.38:887][534]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.02.38:890][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002280s)
+[2020.11.04-14.02.38:891][534]LogAIModule: Creating AISystem for world Clicker
+[2020.11.04-14.02.38:891][534]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019D36590E00), frame # 1076534
+[2020.11.04-14.02.38:891][534]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019D3C07F600), frame # 1076534
+[2020.11.04-14.02.38:891][534]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2020.11.04-14.02.38:891][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Clicker.Clicker to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker (0.003655s)
+[2020.11.04-14.02.38:927][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.11.04-14.02.38:928][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-14.02.38:928][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-14.02.38:928][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-14.02.38:928][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-14.02.38:928][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-14.02.38:928][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-14.02.38:928][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-14.02.38:928][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-14.02.38:929][534]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-14.02.38:929][534]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-14.02.38:947][534]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-14.02.38:947][534]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-14.02.39:016][534]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.04-14.02.39:016][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-14.02.39:016][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-14.02.39:016][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-14.02.39:017][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-14.02.39:035][534]LogInit: FAudioDevice initialized.
+[2020.11.04-14.02.39:049][534]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.11.04-14.02.39:050][534]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker.Clicker up for play (max tick rate 0) at 2020.11.04-14.02.39
+[2020.11.04-14.02.39:050][534]LogWorld: Bringing up level for play took: 0.000606
+[2020.11.04-14.02.39:050][534]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2020.11.04-14.02.39:054][534]PIE: Server logged in
+[2020.11.04-14.02.39:055][534]PIE: Play in editor total start time 0.175 seconds.
+[2020.11.04-14.03.17:333][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.03.17:333][  1]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Clicker
+[2020.11.04-14.03.17:333][  1]LogWorld: UWorld::CleanupWorld for Clicker, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-14.03.17:333][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.03.17:341][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-14.03.17:345][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-14.03.17:402][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-14.03.17:402][  1]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019D3C07F600), frame # 1081001
+[2020.11.04-14.03.17:402][  1]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019D36590E00), frame # 1081001
+[2020.11.04-14.03.17:406][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.11.04-14.03.17:426][  2]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2020.11.04-14.06.06:245][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.04-14.06.06:250][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Clicker' took 0.042
+[2020.11.04-14.06.06:250][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/cat_4th_level_CHONK] ([1] browsable assets)...
+[2020.11.04-14.06.06:252][534]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/cat_4th_level_CHONK.cat_4th_level_CHONK]
+[2020.11.04-14.06.06:252][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/cat_4th_level_CHONK]
+[2020.11.04-14.06.06:257][534]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_4th_level_CHONK_Auto1916EF3D746F7EB4E72F11897722792EB.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Autosaves/Game/Assets/cat_4th_level_CHONK_Auto1.uasset'
+[2020.11.04-14.06.06:260][534]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.11.04-14.08.09:557][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FoodParticles" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodParticles.uasset" SILENT=true
+[2020.11.04-14.08.09:563][601]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/FoodParticles5F43ED4B4C6A247C44D4948840EDB54A.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodParticles.uasset'
+[2020.11.04-14.08.09:822][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.11.04-14.08.09:872][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.11.04-14.08.09:904][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.04-14.08.09:985][601]AssetCheck: New page: Asset Save: FoodParticles
+[2020.11.04-14.08.09:985][601]LogContentValidation: Display: Validating ParticleSystem /Game/FoodParticles.FoodParticles
+[2020.11.04-14.08.10:653][665]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/FoodParticles.FoodParticles
+[2020.11.04-14.08.10:778][665]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2020.11.04-14.08.10:800][665]LogMaterial: Display: Missing cached shader map for material DefaultParticle, compiling. 
+[2020.11.04-14.08.10:876][665]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 137
+[2020.11.04-14.08.10:876][665]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 127
+[2020.11.04-14.08.10:876][665]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 117
+[2020.11.04-14.08.48:990][137]LogCascade: Non-seeded module ParticleModuleRequired
+[2020.11.04-14.08.54:912][749]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 107
+[2020.11.04-14.08.55:229][779]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 97
+[2020.11.04-14.09.01:098][359]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2020.11.04-14.09.06:018][825]LogCascade: Insert New Emitter Before 0
+[2020.11.04-14.09.31:944][265]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2020.11.04-14.09.33:811][459]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2020.11.04-14.09.38:079][884]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2020.11.04-14.09.58:420][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2020.11.04-14.10.05:860][788]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2020.11.04-14.10.08:824][812]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.11.04-14.10.12:696][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.11.04-14.10.15:731][978]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.11.04-14.10.17:768][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.11.04-14.10.18:552][ 62]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.11.04-14.10.21:291][ 97]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.11.04-14.10.24:600][143]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.11.04-14.11.40:558][669]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FoodPSprite.FoodPSprite
+[2020.11.04-14.11.40:559][669]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.11.40:697][669]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.11.40:723][669]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.11.40:736][669]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.11.04-14.11.40:736][669]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.11.04-14.11.40:736][669]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.11.04-14.11.44:531][997]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.11.04-14.11.45:654][108]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.11.04-14.11.46:862][226]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.11.47:939][319]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.11.04-14.11.48:656][384]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.11.04-14.11.54:228][807]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.11.04-14.11.54:229][807]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.11.04-14.12.09:442][114]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.11.04-14.12.10:629][224]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.11.04-14.12.10:630][224]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.11.04-14.12.12:045][345]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.11.04-14.12.12:138][350]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.12.12:287][351]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.11.04-14.12.12:321][351]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.11.04-14.12.13:503][448]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.11.04-14.12.14:122][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.11.04-14.12.15:472][649]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.04-14.12.18:790][942]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.11.04-14.12.19:308][988]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.11.04-14.12.21:556][189]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.12.23:909][395]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.11.04-14.12.25:387][513]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.11.04-14.12.30:582][925]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.11.04-14.12.31:751][ 23]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.04-14.12.41:131][767]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.12.43:508][960]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.11.04-14.12.43:800][988]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.11.04-14.12.44:022][  9]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.11.04-14.12.45:162][122]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.11.04-14.12.47:033][301]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.11.04-14.12.47:104][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.11.04-14.12.47:630][358]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.12.47:639][358]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.11.04-14.12.51:327][675]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.12.53:177][819]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.11.04-14.12.53:735][872]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.11.04-14.12.54:001][897]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.12.56:285][ 80]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.11.04-14.12.56:582][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.04-14.12.57:503][193]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.11.04-14.12.57:688][209]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.00:979][474]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.11.04-14.13.01:229][498]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.02:459][598]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.03:072][648]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.11.04-14.13.03:125][653]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.11.04-14.13.04:135][754]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.11.04-14.13.04:135][754]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.11.04-14.13.07:958][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.11.04-14.13.08:623][168]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.11.04-14.13.08:632][169]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.11.04-14.13.08:745][180]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.11:543][414]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.12:718][506]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.11.04-14.13.18:239][955]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.11.04-14.13.20:290][114]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.20:769][149]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.11.04-14.13.20:862][158]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.04-14.13.21:254][195]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.21:296][195]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.21:315][195]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.26:064][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.11.04-14.13.29:990][889]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.30:986][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.11.04-14.13.31:413][ 25]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.11.04-14.13.31:525][ 36]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.11.04-14.13.31:863][ 69]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.11.04-14.13.34:681][297]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.35:772][399]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.11.04-14.13.36:147][432]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.11.04-14.13.37:156][514]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2020.11.04-14.13.37:289][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.11.04-14.13.38:823][652]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.11.04-14.13.38:873][653]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.11.04-14.13.39:763][725]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.39:783][725]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.39:802][725]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.43:142][984]LogMaterialEditor: Saving and Compiling material FoodPSprite
+[2020.11.04-14.13.44:057][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.11.04-14.13.44:057][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.11.04-14.13.44:057][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.11.04-14.13.44:079][984]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.44:182][984]LogMaterial: Display: Missing cached shader map for material FoodPSprite, compiling. 
+[2020.11.04-14.13.44:270][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2020.11.04-14.13.44:414][984]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.11.04-14.13.44:456][984]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.04-14.13.45:024][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2020.11.04-14.13.45:578][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2020.11.04-14.13.46:691][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 63
+[2020.11.04-14.13.47:245][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2020.11.04-14.13.48:707][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2020.11.04-14.13.49:823][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.11.04-14.13.49:823][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 59
+[2020.11.04-14.13.50:398][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2020.11.04-14.13.50:955][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.11.04-14.13.51:511][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.11.04-14.13.52:068][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2020.11.04-14.13.52:625][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2020.11.04-14.13.53:182][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2020.11.04-14.13.54:295][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2020.11.04-14.13.54:851][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2020.11.04-14.13.55:965][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.11.04-14.13.55:965][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2020.11.04-14.13.56:596][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2020.11.04-14.13.57:156][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2020.11.04-14.13.57:745][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2020.11.04-14.13.59:988][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2020.11.04-14.13.59:988][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2020.11.04-14.14.00:546][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2020.11.04-14.14.01:104][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2020.11.04-14.14.01:104][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.11.04-14.14.01:630][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2020.11.04-14.14.01:630][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2020.11.04-14.14.01:630][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.11.04-14.14.01:651][984]TextureStreamingBuild: Display: Compiling optional shaders took 17.232 seconds.
+[2020.11.04-14.14.02:595][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.11.04-14.14.02:595][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.11.04-14.14.11:594][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.11.04-14.14.12:711][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.11.04-14.14.17:667][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.11.04-14.14.20:563][984]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.11.04-14.14.20:563][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.04-14.14.23:981][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FoodPSprite" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodPSprite.uasset" SILENT=true
+[2020.11.04-14.14.23:991][984]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/FoodPSpriteF3BC63454CBF5C632264959F8AFCBFBD.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodPSprite.uasset'
+[2020.11.04-14.14.24:034][984]AssetCheck: New page: Asset Save: FoodPSprite
+[2020.11.04-14.14.24:034][984]LogContentValidation: Display: Validating Material /Game/FoodPSprite.FoodPSprite
+[2020.11.04-14.14.24:055][984]MaterialEditorStats: Base pass shader: 326 instructions
+[2020.11.04-14.14.24:055][984]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 405 instructions
+[2020.11.04-14.14.24:055][984]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.11.04-14.14.24:055][984]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.04-14.14.24:055][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.04-14.14.26:965][218]LogMaterialEditor: Saving and Compiling material FoodPSprite
+[2020.11.04-14.14.26:995][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FoodPSprite" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodPSprite.uasset" SILENT=true
+[2020.11.04-14.14.27:027][218]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/FoodPSprite0C1F56E540A1574F78ABD38736095ECC.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodPSprite.uasset'
+[2020.11.04-14.14.27:051][218]AssetCheck: New page: Asset Save: FoodPSprite
+[2020.11.04-14.14.27:052][218]LogContentValidation: Display: Validating Material /Game/FoodPSprite.FoodPSprite
+[2020.11.04-14.14.29:881][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FoodParticles" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodParticles.uasset" SILENT=true
+[2020.11.04-14.14.29:916][476]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/FoodParticlesBE82CF5844B6CB353D14FFAB03CE195B.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/FoodParticles.uasset'
+[2020.11.04-14.14.29:942][476]AssetCheck: New page: Asset Save: FoodParticles
+[2020.11.04-14.14.29:942][476]LogContentValidation: Display: Validating ParticleSystem /Game/FoodParticles.FoodParticles
+[2020.11.04-14.14.36:894][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.11.04-14.14.36:957][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Clicker_BuiltDataE82648AD4598BD91209AF28CB51BFD9C.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/2DSideScrollerBP/Maps/Clicker_BuiltData.uasset'
+[2020.11.04-14.14.36:990][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Clicker_BuiltDataC19293514673600D51933BA66C3ADFCD.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/2DSideScrollerBP/Maps/Clicker_BuiltData.uasset'
+[2020.11.04-14.14.36:993][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Cat_1st_level_CHONK" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/Cat_1st_level_CHONK.uasset" SILENT=true
+[2020.11.04-14.14.36:999][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/Cat_1st_level_CHONK176B03AB4E2233B2831D4AA1331D6A02.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/Cat_1st_level_CHONK.uasset'
+[2020.11.04-14.14.37:003][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/cat_2nd_level_CHONK" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_2nd_level_CHONK.uasset" SILENT=true
+[2020.11.04-14.14.37:009][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_2nd_level_CHONK28F76ADA46C39E6C96C299964629E5A9.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_2nd_level_CHONK.uasset'
+[2020.11.04-14.14.37:012][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/cat_3rd_level_CHONK" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_3rd_level_CHONK.uasset" SILENT=true
+[2020.11.04-14.14.37:018][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_3rd_level_CHONK8C697FA142B18299BCC09AB2AF37BE75.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_3rd_level_CHONK.uasset'
+[2020.11.04-14.14.37:021][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/cat_2nd_level_CHONK_Sprite" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_2nd_level_CHONK_Sprite.uasset" SILENT=true
+[2020.11.04-14.14.37:028][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_2nd_level_CHONK_Sprite71582E5B4F2CD647A86685A811F896BD.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_2nd_level_CHONK_Sprite.uasset'
+[2020.11.04-14.14.37:031][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/cat_3rd_level_CHONK_Sprite" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_3rd_level_CHONK_Sprite.uasset" SILENT=true
+[2020.11.04-14.14.37:038][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_3rd_level_CHONK_Sprite66D8678F486152BBE6C85787C1417B37.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_3rd_level_CHONK_Sprite.uasset'
+[2020.11.04-14.14.37:041][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/cat_4th_level_CHONK" FILE="C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_4th_level_CHONK.uasset" SILENT=true
+[2020.11.04-14.14.37:047][718]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Saved/cat_4th_level_CHONK9FCCB857418E46845010F88DA907CB8F.tmp' to 'C:/Users/Owner/Documents/GitHub/W3T9GroupProject/MyProject/Content/Assets/cat_4th_level_CHONK.uasset'
+[2020.11.04-14.14.37:137][718]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-14.14.37:137][718]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Clicker_BuiltData.Clicker_BuiltData
+[2020.11.04-14.14.37:138][718]LogContentValidation: Display: Validating Texture2D /Game/Assets/Cat_1st_level_CHONK.Cat_1st_level_CHONK
+[2020.11.04-14.14.37:138][718]LogContentValidation: Display: Validating Texture2D /Game/Assets/cat_2nd_level_CHONK.cat_2nd_level_CHONK
+[2020.11.04-14.14.37:138][718]LogContentValidation: Display: Validating Texture2D /Game/Assets/cat_3rd_level_CHONK.cat_3rd_level_CHONK
+[2020.11.04-14.14.37:138][718]LogContentValidation: Display: Validating PaperSprite /Game/Assets/cat_2nd_level_CHONK_Sprite.cat_2nd_level_CHONK_Sprite
+[2020.11.04-14.14.37:138][718]LogContentValidation: Display: Validating PaperSprite /Game/Assets/cat_3rd_level_CHONK_Sprite.cat_3rd_level_CHONK_Sprite
+[2020.11.04-14.14.37:138][718]LogContentValidation: Display: Validating Texture2D /Game/Assets/cat_4th_level_CHONK.cat_4th_level_CHONK
